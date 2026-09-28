@@ -150,14 +150,23 @@ Secure Deployment
 * 🛡️ EC-Council Cyber Security Analyst — CSA
 
 ---
-
-# 📊 GitHub Stats
+# 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-Chauhan-16&show_icons=true&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-Chauhan-16&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya-Chauhan-16&hide_border=true" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Shaurya-Chauhan-16">
+    <img src="https://img.shields.io/github/followers/Shaurya-Chauhan-16?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Shaurya-Chauhan-16">
+    <img src="https://img.shields.io/github/stars/Shaurya-Chauhan-16?label=Stars&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Shaurya-Chauhan-16">
+    <img src="https://img.shields.io/github/repos/Shaurya-Chauhan-16?label=Repositories&style=for-the-badge" />
+  </a>
+</p>
 
 
 # 🤝 Let's Connect
