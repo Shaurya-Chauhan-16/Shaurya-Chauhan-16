@@ -143,6 +143,48 @@ Secure Deployment
 
 ---
 
+🛡️ ZYDER — Hybrid Network Intrusion Detection System
+Python 3.13 · FastAPI · XGBoost · Scikit-learn · CICFlowMeter · Zeek · Scapy · Suricata · SHAP
+ZYDER is a hybrid network intrusion detection system that combines machine-learning-based traffic classification with signature-based detection to identify and investigate malicious network activity.
+The system processes network traffic and PCAP files, extracts network-flow features, applies an XGBoost-based detection model, and correlates the results with Suricata signatures.
+Detection architecture:
+Network Traffic / PCAP
+          ↓
+   Traffic Extraction
+          ↓
+ ┌────────┴─────────┐
+ ↓                  ↓
+ML Detection    Signature Detection
+(XGBoost)         (Suricata)
+ ↓                  ↓
+ └────────┬─────────┘
+          ↓
+   Hybrid Correlation
+          ↓
+   Final Detection
+          ↓
+   SHAP Explainability
+          ↓
+     FastAPI API
+          ↓
+   Detection Dashboard
+Key capabilities:
+ML-based network intrusion detection
+XGBoost traffic classification
+CICIDS2017 flow-feature extraction
+UNSW-NB15 model support
+Suricata signature-based detection
+PCAP analysis
+Scapy-based network processing
+Zeek network telemetry integration
+SHAP-based model explainability
+Hybrid ML + signature correlation
+FastAPI backend
+Security detection dashboard
+
+🔗 [View Project](https://github.com/Shaurya-Chauhan-16/ZYDER)
+---
+
 # 📜 Certifications
 
 * ☁️ AWS Certified Cloud Practitioner
