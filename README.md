@@ -153,7 +153,7 @@ Detection flow:
 
 `PCAP / Network Traffic → Flow Extraction → ML Detection + Signature Detection → Hybrid Correlation → Final Verdict`
 
-🔗 [View Project](https://github.com/Shaurya-Chauhan-16/ZYDER2)
+🔗 [View Project](https://github.com/Shaurya-Chauhan-16/ZYDER)
 
 ---
 
